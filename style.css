@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    background: linear-gradient(to right, #209128 0%, #1D8CAA 50%, #0C65E5 100%);;
+}
+#field {
+    text-align: justify;
+    color: black;
+}
